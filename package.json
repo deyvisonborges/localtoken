@@ -1,0 +1,46 @@
+{
+  "_from": "localtoken",
+  "_id": "localtoken@0.0.23",
+  "_inBundle": false,
+  "_integrity": "sha512-IhBQ6s6GAXILE04NmhRNaqJThW/T8SzzmUkBMmk14AwiPYMBebu91naRVHOmbdGQZTi6Qwv6gAxmtKo0MvflVQ==",
+  "_location": "/localtoken",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "localtoken",
+    "name": "localtoken",
+    "escapedName": "localtoken",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/localtoken/-/localtoken-0.0.23.tgz",
+  "_shasum": "5fbe64ec52f18ac8e90b46063211decd07265986",
+  "_spec": "localtoken",
+  "_where": "/home/borges/Área de Trabalho/MateusChart",
+  "author": {
+    "name": "Deyvison Borges"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Uma nova forma de autenticar",
+  "email": "web.dborges@gmail.com",
+  "keywords": [
+    "strategy",
+    "token",
+    "new strategy for authentication"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "localtoken",
+  "scripts": {
+    "start": " node index.js "
+  },
+  "url": "https://github.com/deeborges",
+  "version": "0.0.23"
+}
