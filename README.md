@@ -6,6 +6,8 @@ Tire suas dúvidas comigo:
 - [web.dborges@gmail.com][1]
 <hr>
 
+Você também pode visualizar a reputação do módulo na NPM 
+* https://www.npmjs.com/package/localtoken
 ### Instalação
 `npm install --save localtoken`
 
