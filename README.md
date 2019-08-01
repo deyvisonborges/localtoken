@@ -1,5 +1,5 @@
-##  :package: localtoken
-### Uma nova forma de autenticar
+##  :inbox_tray: localtoken
+### :package: Uma nova forma de autenticar
 Um módulo que visa simular o Local Storage dos browsers.
 
 Tire suas dúvidas comigo:
