@@ -1,6 +1,8 @@
 ##  :inbox_tray: localtoken
 ### :package: Uma nova forma de autenticar
 Um módulo que visa simular o Local Storage dos browsers.
+<br>
+[![npm package](https://nodei.co/npm/localtoken.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/localtoken/)
 
 Tire suas dúvidas comigo:
 - [web.dborges@gmail.com][1]
